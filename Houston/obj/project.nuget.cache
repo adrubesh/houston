@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I1qZgil1oSQflR/BE0sATmtXE+2/F4wwKn4kro5xfGDSEK+lCbmUqcBoMKAo19Zdj/Dr9wrl1OJKeIf//U81/w==",
+  "success": true,
+  "projectFilePath": "/home/aaron/projects/Houston/Houston/Houston.csproj",
+  "expectedPackageFiles": [
+    "/home/aaron/.nuget/packages/system.formats.asn1/5.0.0/system.formats.asn1.5.0.0.nupkg.sha512",
+    "/home/aaron/.nuget/packages/system.security.cryptography.cng/5.0.0/system.security.cryptography.cng.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

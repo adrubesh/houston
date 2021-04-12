@@ -1,0 +1,5 @@
+/home/aaron/projects/Houston/HoustonTest/obj/Debug/net5.0/HoustonTest.csprojAssemblyReference.cache
+/home/aaron/projects/Houston/HoustonTest/obj/Debug/net5.0/HoustonTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/projects/Houston/HoustonTest/obj/Debug/net5.0/HoustonTest.AssemblyInfoInputs.cache
+/home/aaron/projects/Houston/HoustonTest/obj/Debug/net5.0/HoustonTest.AssemblyInfo.cs
+/home/aaron/projects/Houston/HoustonTest/obj/Debug/net5.0/HoustonTest.csproj.CoreCompileInputs.cache

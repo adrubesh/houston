@@ -1,0 +1,12 @@
+/home/aaron/projects/Houston/Houston/bin/Debug/net5.0/Houston.deps.json
+/home/aaron/projects/Houston/Houston/bin/Debug/net5.0/Houston.dll
+/home/aaron/projects/Houston/Houston/bin/Debug/net5.0/ref/Houston.dll
+/home/aaron/projects/Houston/Houston/bin/Debug/net5.0/Houston.pdb
+/home/aaron/projects/Houston/Houston/obj/Debug/net5.0/Houston.csprojAssemblyReference.cache
+/home/aaron/projects/Houston/Houston/obj/Debug/net5.0/Houston.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/projects/Houston/Houston/obj/Debug/net5.0/Houston.AssemblyInfoInputs.cache
+/home/aaron/projects/Houston/Houston/obj/Debug/net5.0/Houston.AssemblyInfo.cs
+/home/aaron/projects/Houston/Houston/obj/Debug/net5.0/Houston.csproj.CoreCompileInputs.cache
+/home/aaron/projects/Houston/Houston/obj/Debug/net5.0/Houston.dll
+/home/aaron/projects/Houston/Houston/obj/Debug/net5.0/ref/Houston.dll
+/home/aaron/projects/Houston/Houston/obj/Debug/net5.0/Houston.pdb

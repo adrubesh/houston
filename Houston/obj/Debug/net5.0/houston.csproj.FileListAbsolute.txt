@@ -1,0 +1,12 @@
+C:\Users\aaron\source\repos\houston\houston\bin\Debug\net5.0\houston.deps.json
+C:\Users\aaron\source\repos\houston\houston\bin\Debug\net5.0\houston.dll
+C:\Users\aaron\source\repos\houston\houston\bin\Debug\net5.0\ref\houston.dll
+C:\Users\aaron\source\repos\houston\houston\bin\Debug\net5.0\houston.pdb
+C:\Users\aaron\source\repos\houston\houston\obj\Debug\net5.0\houston.csprojAssemblyReference.cache
+C:\Users\aaron\source\repos\houston\houston\obj\Debug\net5.0\houston.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\source\repos\houston\houston\obj\Debug\net5.0\houston.AssemblyInfoInputs.cache
+C:\Users\aaron\source\repos\houston\houston\obj\Debug\net5.0\houston.AssemblyInfo.cs
+C:\Users\aaron\source\repos\houston\houston\obj\Debug\net5.0\houston.csproj.CoreCompileInputs.cache
+C:\Users\aaron\source\repos\houston\houston\obj\Debug\net5.0\houston.dll
+C:\Users\aaron\source\repos\houston\houston\obj\Debug\net5.0\ref\houston.dll
+C:\Users\aaron\source\repos\houston\houston\obj\Debug\net5.0\houston.pdb

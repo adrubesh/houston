@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/aaron/projects/Houston/HoustonClient/HoustonClient.csproj": {}
+  },
+  "projects": {
+    "/home/aaron/projects/Houston/Houston/Houston.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aaron/projects/Houston/Houston/Houston.csproj",
+        "projectName": "Houston",
+        "projectPath": "/home/aaron/projects/Houston/Houston/Houston.csproj",
+        "packagesPath": "/home/aaron/.nuget/packages/",
+        "outputPath": "/home/aaron/projects/Houston/Houston/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aaron/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/aaron/projects/Houston/HoustonClient/HoustonClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aaron/projects/Houston/HoustonClient/HoustonClient.csproj",
+        "projectName": "HoustonClient",
+        "projectPath": "/home/aaron/projects/Houston/HoustonClient/HoustonClient.csproj",
+        "packagesPath": "/home/aaron/.nuget/packages/",
+        "outputPath": "/home/aaron/projects/Houston/HoustonClient/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aaron/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/aaron/projects/Houston/Houston/Houston.csproj": {
+                "projectPath": "/home/aaron/projects/Houston/Houston/Houston.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Security.Cryptography.Cng": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
